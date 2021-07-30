@@ -81,7 +81,7 @@ router.delete('/:id', async (req, res) => {
   res.status(200).json (deleteTag);
   } catch (e) {
   res.status(500).json(e);
-  },
+  }
 });
 
 module.exports = router;
