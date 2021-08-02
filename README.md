@@ -22,7 +22,7 @@ URL of GitHub repository: https://github.com/rubiocode/E-Commerce_Back_End
 
 ## Description
 
-The _E-Commerce Back End_ is an application where the user is able to build and create database based on categories, products, and tags. The user is able to add, delete, and update categories, products, and tags as well as create tables using MySQL to keep track of the inventory.
+The _E-Commerce Back End_ is an application where the user is able to build a database based on categories, products, and tags. The user is able to add, delete, and update categories, products, and tags as well as create tables using MySQL to keep track of the inventory.
 
 ## User Story
 
