@@ -13,9 +13,6 @@ URL of GitHub repository: https://github.com/rubiocode/E-Commerce_Back_End
 * [Description](#description)
     * [User Story](#user-story)
     * [Acceptance Criteria](#acceptance-criteria)
-* [User Story](#user-story)
-* [Acceptance Criteria](#acceptance-criteria)
-* [Table of Contents](#table-of-contents)
 * [Installation](#installation)
 * [Usage](#usage)
 * [View](#view)
@@ -99,11 +96,21 @@ Click [here](https://drive.google.com/file/d/1HU2A1kMk0stfZHmO97EQh6vaYJnUpHJl/v
 
 Click [here](https://drive.google.com/file/d/1XP2-USF3bz94PUKKyzsfkie7EpgevDS-/view) to see all APIs being tested in Postman
 
+Here is a screenshot example of the GET ALL Categories request
+
+![image](https://user-images.githubusercontent.com/78938193/127792911-7210b1ff-b352-4466-93b5-bf5fa4b85ea2.png)
+
+
 
 ## Built With
+
 * [Node.js](https://nodejs.dev/learn/) - Node.js is an open-source, low-level, back-end JavaScript runtime platform that uses asynchronous programming and is a popular tool for almost any kind of project!. 
 
+* [sequelize](https://www.npmjs.com/package/sequelize) - Sequelize is a promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server.
 
+* [MYSQL2](https://www.npmjs.com/package/mysql2) - MySQL2 project is a continuation of MySQL-Native. Protocol parser code was rewritten from scratch and api changed to match popular mysqljs/mysql.
+
+*  [dotenv](https://www.npmjs.com/package/dotenv) - A library that allows for reading.env files instead of environment variables
 
 ## Credits
 Starting files from © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
