@@ -55,7 +55,7 @@ To start using this _E-Commerce Back End_ application you must follow these inst
 
 * Fork and clone this repository and save it to your computer. For help how to fork and clone click [here](https://guides.github.com/activities/forking/) 
 
-* Download Postman to test the APIs. To dowload Postman click [here](https://www.postman.com/downloads/)
+* Download Postman to test the APIs. To download Postman click [here](https://www.postman.com/downloads/)
 
 * Open your terminal and make sure noje.js is installed. To download node.js click [here](https://nodejs.org/en/download/)
 
